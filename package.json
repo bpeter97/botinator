@@ -1,0 +1,14 @@
+{
+  "name": "botinator",
+  "version": "1.0.0",
+  "description": "Critinator & Hearts Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Brian Peter Jr & Taylor Hartley",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
